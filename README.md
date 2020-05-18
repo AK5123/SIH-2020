@@ -1,4 +1,3 @@
-# NodeServer
 # Getting started
 
 To get the Node server running locally:
